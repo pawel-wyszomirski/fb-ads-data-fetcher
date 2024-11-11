@@ -1,0 +1,11 @@
+[
+  {
+    "id": "123456789",
+    "name": "Sample Campaign 1",
+    "objective": "CONVERSIONS",
+    "status": "ACTIVE",
+    "start_time": "2023-01-01T00:00:00+0000",
+    "daily_budget": "1000",
+    "bid_strategy": "LOWEST_COST_WITHOUT_CAP"
+  }
+]

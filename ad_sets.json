@@ -1,0 +1,23 @@
+[
+  {
+    "id": "987654321",
+    "name": "Sample Ad Set 1",
+    "campaign_id": "123456789",
+    "status": "ACTIVE",
+    "targeting": {
+      "age_min": 18,
+      "age_max": 65,
+      "genders": [
+        1,
+        2
+      ],
+      "geo_locations": {
+        "countries": [
+          "US"
+        ]
+      }
+    },
+    "daily_budget": "500",
+    "optimization_goal": "CONVERSIONS"
+  }
+]
